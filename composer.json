@@ -10,6 +10,7 @@
     "require": {
         "php": "^8.0.2|^8.1",
         "ext-json": "*",
+        "beyondcode/laravel-websockets": "^1.13",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "jenssegers/agent": "^2.6",
